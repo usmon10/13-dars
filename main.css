@@ -1,0 +1,44 @@
+body{
+    background-color: green;
+}
+.div1{
+    color: white;
+    background-color: blue;
+    font-size: 48px;
+    width: 400px;
+    height: 116px;
+    text-align: center;
+    border-radius: 20px;
+    line-height: 116px;
+    margin: 0 auto;
+}
+.div2{
+    width: 451px;
+    height: 777px;
+    background-color: black;
+    border-radius: 20px;
+    margin: 100px auto;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+.qizil{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 150px;
+    margin: 0 auto;
+}
+.sariq{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;  
+    border-radius: 150px;
+    margin: 60px auto;
+}
+.yashil{
+    width: 200px;
+    height: 200px;
+    background-color: green;  
+    border-radius: 150px;
+    margin: 0 auto;
+}
